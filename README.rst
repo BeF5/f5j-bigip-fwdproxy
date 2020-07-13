@@ -20,7 +20,8 @@ F5のオフィシャルなドキュメントはこちらにございます。
 このページでは、以下のコンテンツを発信しております。
 
 - BIG-IP Forward Proxyにおける基礎知識
-- BIG-IP HTTP/HTTPS Forward Proxyの基本設定
+- HTTPS Explicit Forward Proxyの基本設定
+- SSL Forward Proxyの基本設定
 
 .. toctree::
    :caption: Contents:
