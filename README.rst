@@ -23,8 +23,4 @@ F5のオフィシャルなドキュメントはこちらにございます。
 - HTTPS Explicit Forward Proxyの基本設定
 - SSL Forward Proxyの基本設定
 
-.. toctree::
-   :caption: Contents:
-   :glob:
 
-   content*/content*
