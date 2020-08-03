@@ -1,4 +1,4 @@
-Explicit Proxy用Virtual Server設定
+Explicit Proxy用Virtual Server設定
 ===========================
 
 Explicit Forward Proxyを構成するVirtual Serverを設定します。このVirtual Serverは、クライアントから見たプロキシサーバとして動作します。
