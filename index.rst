@@ -14,11 +14,10 @@ F5のオフィシャルなドキュメントはこちらにございます。
 - F5 DevCentral（コミュニティ）: https://devcentral.f5.com/
 
 
-
-
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :numbered:
+   :titlesonly:
+   :caption: 目次:
    :glob:
 
    content*/content*
