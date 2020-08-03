@@ -20,8 +20,9 @@ F5のオフィシャルなドキュメントはこちらにございます。
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :numbered:
+   :titlesonly:
+   :caption: 目次:
    :glob:
 
    content*/content*
