@@ -8,7 +8,7 @@
 classname = "BIG-IP Forward Proxy セットアップガイド"
 
 # OPTIONAL: The URL to the GitHub Repository for this class
-github_url = "https://github.com/ttsuji777/bigip-fwdproxy-jp"
+github_url = "https://github.com/BeF5/f5j-bigip-fwdproxy"
 
 git_branch_name = 'master'
 
