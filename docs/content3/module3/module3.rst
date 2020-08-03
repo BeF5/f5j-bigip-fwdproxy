@@ -1,4 +1,4 @@
-トンネル用Virtual Server設定
+トンネル用Virtual Server設定
 ===========================
 
 HTTPS通信においてトンネルを構成するVirtual Serverを設定します。
