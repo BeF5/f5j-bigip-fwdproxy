@@ -7,9 +7,10 @@ BIG-IP Forward Proxy セットアップガイド
 
 本ドキュメントでは、BIG-IPのForward Proxy設定について解説します。
 
+
 はじめに
-==============================================
-このページでは、これらのオフィシャルなドキュメントの補足となる資料や、複数の機能を組合せてソリューションを実現する方法をご紹介いたします。
+--------------------------------
+このページでは、これらのオフィシャルなドキュメントの補足となる資料 や 複数の機能を組合せてソリューションを実現する方法をご紹介いたします。
 F5のオフィシャルなドキュメントはこちらにございます。
 
 - AskF5: https://support.f5.com/csp/home
@@ -17,6 +18,12 @@ F5のオフィシャルなドキュメントはこちらにございます。
 - F5 DevCentral（コミュニティ）: https://devcentral.f5.com/
 
 
+その他参考リンク
+--------------------------------
+
+- F5 テクニカルインフォTop : https://f5j-tech-info.readthedocs.io/
+- F5 Japan YouTube : https://www.youtube.com/channel/UCqX6rJEY6Ya8YbC8iqP34zg
+- F5 NGINX YouTube(英語) : https://www.youtube.com/@nginx_official
 
 
 .. toctree::
